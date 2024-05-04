@@ -1,7 +1,0 @@
-* puzzledplanner
-
-This is a description of my puzzledplanner.
-
-** Usage
-
-To use my project, run this command: ./puzzledplanner --verbose
