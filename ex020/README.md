@@ -1,8 +1,6 @@
 - https://www.reddit.com/r/golang/comments/udhml7/comment/i6k79hs/
 - https://www.reddit.com/r/golang/comments/udhml7/best_way_to_embed_version_info_into_binary/
 
-
-
 example
 
 ```log
