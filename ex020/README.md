@@ -8,4 +8,4 @@ Go Version: go version go1.22.0 darwin/amd64
 
 ```
 
-This is my adaptation to [nofeaturesonlybugs](https://www.reddit.com/user/nofeaturesonlybugs/) [suggestion](https://www.reddit.com/r/golang/comments/udhml7/comment/i6k79hs/) from a [reddit thread](https://www.reddit.com/r/golang/comments/udhml7/best_way_to_embed_version_info_into_binary/)
+This is my adaptation to [nofeaturesonlybugs's](https://www.reddit.com/user/nofeaturesonlybugs/) [suggestion](https://www.reddit.com/r/golang/comments/udhml7/comment/i6k79hs/) from a [reddit thread](https://www.reddit.com/r/golang/comments/udhml7/best_way_to_embed_version_info_into_binary/)
