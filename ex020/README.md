@@ -1,8 +1,3 @@
-- https://www.reddit.com/r/golang/comments/udhml7/comment/i6k79hs/
-- https://www.reddit.com/r/golang/comments/udhml7/best_way_to_embed_version_info_into_binary/
-
-example
-
 ```log
 
 [mtm@taylors-MacBook-Pro-2:ex020(master)]$ ./puzzledplanner
@@ -12,3 +7,5 @@ Go Version: go version go1.22.0 darwin/amd64
 [mtm@taylors-MacBook-Pro-2:ex020(master)]$
 
 ```
+
+This is my adaptation to [nofeaturesonlybugs](https://www.reddit.com/user/nofeaturesonlybugs/) [suggestion](https://www.reddit.com/r/golang/comments/udhml7/comment/i6k79hs/) from a [reddit thread](https://www.reddit.com/r/golang/comments/udhml7/best_way_to_embed_version_info_into_binary/)
