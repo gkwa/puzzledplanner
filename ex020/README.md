@@ -1,6 +1,6 @@
 # ex020
 
-This is my adaptation to [nofeaturesonlybugs's](https://www.reddit.com/user/nofeaturesonlybugs/) [suggestion](https://www.reddit.com/r/golang/comments/udhml7/comment/i6k79hs/) from a [reddit thread](https://www.reddit.com/r/golang/comments/udhml7/best_way_to_embed_version_info_into_binary/)
+This is my adaptation to [nofeaturesonlybugs's](https://www.reddit.com/user/nofeaturesonlybugs/) [suggestion](https://www.reddit.com/r/golang/comments/udhml7/comment/i6k79hs/) from a [reddit thread](https://www.reddit.com/r/golang/comments/udhml7/best_way_to_embed_version_info_into_binary/).
 
 ```log
 [mtm@taylors-MacBook-Pro-2:ex020(master)]$ ./puzzledplanner
