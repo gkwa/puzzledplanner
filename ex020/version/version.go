@@ -1,7 +1,9 @@
 package version
 
 var (
-	Version   string
-	Date      string
-	GoVersion string
+	Date        string
+	FullGitSHA  string
+	GoVersion   string
+	ShortGitSHA string
+	Version     string
 )
